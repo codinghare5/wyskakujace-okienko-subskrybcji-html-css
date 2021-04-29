@@ -162,3 +162,9 @@ input:last-of-type {
   background-color: rgb(220, 68, 57);
   color: white;
 }
+
+@media (max-width: 435px) {
+  .popup {
+    justify-content: space-around;
+  }
+}
